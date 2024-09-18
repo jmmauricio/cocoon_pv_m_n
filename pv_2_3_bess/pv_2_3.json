@@ -139,7 +139,7 @@
       "bus_k": "POI_MV",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 3.5999999999999996,
       "monitor": true
     },
@@ -157,7 +157,7 @@
       "bus_k": "MV0101",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 2.4,
       "monitor": false
     },
@@ -175,7 +175,7 @@
       "bus_k": "MV0102",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 1.2,
       "monitor": false
     },
@@ -193,7 +193,7 @@
       "bus_k": "POI_MV",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 3.5999999999999996,
       "monitor": true
     },
@@ -211,7 +211,7 @@
       "bus_k": "MV0201",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 2.4,
       "monitor": false
     },
@@ -229,7 +229,7 @@
       "bus_k": "MV0202",
       "X_pu": 0.01,
       "R_pu": 0.01,
-      "Bs_pu": 0.01,
+      "Bs_pu": 0.0,
       "S_mva": 1.2,
       "monitor": false
     }
