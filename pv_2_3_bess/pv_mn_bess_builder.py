@@ -56,7 +56,6 @@ for i_m in range(1,M+1):
         monitor = False
 
 with open('pv_2_3.json','w') as fobj:
-
     fobj.write(json.dumps(data, indent=2))
 
 
